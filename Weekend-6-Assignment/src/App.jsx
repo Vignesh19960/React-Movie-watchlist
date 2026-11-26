@@ -21,6 +21,7 @@ function App() {
         const response = await axios.get('/movies.json');
         setMovies(response.data);
       } catch (error) {
+         console.error("Error fetching movies:", error);
         setMovies([]);
       } finally {
         setLoading(false);
