@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Vikram", "genre": "Action", "year": 2022, "rating": 8.3, "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=400&q=80" },
+  { "id": 2, "title": "Jailer", "genre": "Action", "year": 2023, "rating": 7.1, "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=400&q=80" },
+  { "id": 3, "title": "Doctor", "genre": "Comedy", "year": 2021, "rating": 7.8, "poster": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=400&q=80" },
+  { "id": 4, "title": "Panchatanthiram", "genre": "Comedy", "year": 2002, "rating": 8.5, "poster": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=400&q=80" },
+  { "id": 5, "title": "Jai Bhim", "genre": "Drama", "year": 2021, "rating": 8.8, "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=400&q=80" },
+  { "id": 6, "title": "Maharaja", "genre": "Drama", "year": 2024, "rating": 8.5, "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=400&q=80" },
+  { "id": 7, "title": "Enthiran", "genre": "Sci-Fi", "year": 2010, "rating": 7.1, "poster": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&q=80" },
+  { "id": 8, "title": "24", "genre": "Sci-Fi", "year": 2016, "rating": 7.9, "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=400&q=80" }
+]
